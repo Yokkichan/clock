@@ -1,0 +1,17 @@
+body{
+    background: url("bg.jpg");
+    text-align: center;
+    margin-top: 30vh;
+    font-family:'Comic Sans MS', cursive
+
+}
+#text1{
+    color: white;
+    font-weight: bold;
+    font-size: 10vh;
+}
+#clock{
+    color: white;
+    font-weight: bold;
+    font-size: 20vh;
+}
